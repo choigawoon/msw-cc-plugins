@@ -1,14 +1,5 @@
 ---
-name: unity-setup
-description: Unity 프로젝트 초기 세팅 (.gitignore, 패키지 설정, 프로젝트 구조)
-triggers:
-  - "Unity 프로젝트"
-  - "gitignore"
-  - ".gitignore"
-  - "Unity 초기 설정"
-  - "Unity 셋업"
-  - "프로젝트 세팅"
-  - "패키지 추가"
+description: Unity 프로젝트 초기 세팅 (.gitignore, 패키지 설정, 프로젝트 구조). Use when the user asks to set up a Unity project, create .gitignore, add packages, or initialize project structure.
 ---
 
 # Unity 프로젝트 초기 세팅 스킬

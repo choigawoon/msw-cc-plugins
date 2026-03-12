@@ -1,13 +1,5 @@
 ---
-name: unity-scene
-description: Unity 씬 구성 및 GameObject 배치 자동화 (에디터 스크립트 기반)
-triggers:
-  - "씬 만들어"
-  - "scene"
-  - "테스트 씬"
-  - "GameObject 배치"
-  - "오브젝트 추가"
-  - "씬 구성"
+description: Unity 씬 구성 및 GameObject 배치 자동화 (에디터 스크립트 기반). Use when the user asks to create a scene, add GameObjects, or set up a test scene.
 ---
 
 # Unity 씬 구성 스킬

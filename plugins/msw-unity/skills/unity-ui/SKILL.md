@@ -1,16 +1,5 @@
 ---
-name: unity-ui
-description: Unity UI Toolkit 기반 UI 생성 (UXML, USS, C# 컨트롤러, 에디터 세팅 스크립트 자동 생성)
-triggers:
-  - "UI 만들어"
-  - "UI Toolkit"
-  - "UXML"
-  - "USS"
-  - "UIDocument"
-  - "화면 만들어"
-  - "메뉴 만들어"
-  - "HUD"
-  - "인벤토리 UI"
+description: Unity UI Toolkit 기반 UI 생성 (UXML, USS, C# 컨트롤러, 에디터 세팅 스크립트 자동 생성). Use when the user asks to create UI, HUD, menu, inventory, or any screen using UI Toolkit, UXML, USS, or UIDocument.
 ---
 
 # Unity UI Toolkit UI 생성 스킬

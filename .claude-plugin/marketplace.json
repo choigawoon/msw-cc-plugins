@@ -1,7 +1,8 @@
 {
   "name": "msw-cc-plugins",
-  "version": "1.0.0",
-  "description": "MSW Claude Code Plugins Marketplace",
+  "owner": {
+    "name": "choigawoon"
+  },
   "plugins": [
     {
       "name": "msw-unity",
