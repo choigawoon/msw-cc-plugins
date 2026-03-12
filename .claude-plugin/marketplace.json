@@ -1,0 +1,12 @@
+{
+  "name": "msw-cc-plugins",
+  "version": "1.0.0",
+  "description": "MSW Claude Code Plugins Marketplace",
+  "plugins": [
+    {
+      "name": "msw-unity",
+      "source": "./plugins/msw-unity",
+      "description": "Unity UI를 AI로 만드는걸 도와주는 플러그인"
+    }
+  ]
+}

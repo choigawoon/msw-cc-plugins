@@ -1,0 +1,10 @@
+{
+  "name": "msw-unity",
+  "version": "1.0.0",
+  "description": "Unity UI를 AI로 만드는걸 도와주는 플러그인",
+  "author": {
+    "name": "choigawoon"
+  },
+  "keywords": ["unity", "ui", "ui-toolkit", "uxml", "uss"],
+  "skills": ["./skills/"]
+}
