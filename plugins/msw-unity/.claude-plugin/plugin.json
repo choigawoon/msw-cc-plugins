@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Unity UI를 AI로 만드는걸 도와주는 플러그인",
   "author": {
-    "name": "choigawoon"
+    "name": "choigawoon",
+    "url": "https://github.com/choigawoon"
   },
-  "keywords": ["unity", "ui", "ui-toolkit", "uxml", "uss"],
+  "repository": "https://github.com/choigawoon/msw-cc-plugins",
+  "license": "MIT",
+  "keywords": ["unity", "ui", "ui-toolkit", "uxml", "uss", "scene", "setup"],
   "skills": ["./skills/"]
 }

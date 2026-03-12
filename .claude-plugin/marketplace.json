@@ -1,13 +1,16 @@
 {
   "name": "msw-cc-plugins",
   "owner": {
-    "name": "choigawoon"
+    "name": "choigawoon",
+    "url": "https://github.com/choigawoon"
   },
   "plugins": [
     {
       "name": "msw-unity",
+      "version": "1.0.0",
       "source": "./plugins/msw-unity",
-      "description": "Unity UI를 AI로 만드는걸 도와주는 플러그인"
+      "description": "Unity UI를 AI로 만드는걸 도와주는 플러그인",
+      "keywords": ["unity", "ui", "ui-toolkit", "uxml", "uss"]
     }
   ]
 }
